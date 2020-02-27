@@ -1,2 +1,3 @@
-# plantuml-assets
-Connectis' Design Assets used in PlantUML based diagrams
+# PlantUML Assets
+
+This repository contains the design assets that we - Connectis - are using in PlantUML based diagrams.
