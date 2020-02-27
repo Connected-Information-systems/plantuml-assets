@@ -1,0 +1,106 @@
+
+skinparam {
+  backgroundColor #fff
+  dpi 300
+  fontName Open Sans
+  fontSize 13
+  PageBorderColor gray
+  ParticipantFontColor #0c74d3
+  roundCorner 4
+  shadowing false
+  titleFontName Open Sans Regular
+  titleFontColor #84bd00
+  titleFontSize 17
+}
+
+skinparam activity {
+  backgroundColor #fff
+  barColor #747375
+  borderColor LightGrey
+  borderThickness 1
+  diamondBorderColor #84BD00
+  diamondBackgroundColor #fff
+  diamondFontName Open Sans Regular
+  diamondFontColor #666666
+  diamondFontSize 11
+  diamondFontStyle italic
+  fontName Open Sans Regular
+  fontSize 13
+  startColor #84BD00
+  endColor #84BD00
+}
+
+skinparam actor {
+  FontName Open Sans Regular Light
+  FontSize 13
+}
+
+skinparam arrow {
+  Color #84bd00
+  FontName Open Sans Regular
+  FontSize 12
+}
+
+skinparam note {
+  FontName Open Sans
+  FontSize 12
+  FontColor DimGrey
+  BorderColor LightGrey
+  BackgroundColor white
+}
+
+skinparam footer {
+  FontName Open Sans Regular
+  FontSize 14
+  FontColor DimGrey
+
+}
+
+skinparam sequence {
+  arrowThickness 0.5
+  actorBorderThickness 1.2
+  actorBorderColor #84BD00
+  backgroundColor #fff
+
+  boxBorderColor #ddd
+  boxBackgroundColor Lavender
+  boxFontColor DimGray
+  boxFontName Open Sans Regular
+  boxFontSize Open 10
+
+  DividerBorderColor #eee
+  DividerBorderThickness 0.5
+  DividerBackgroundColor #eee
+  DividerFontName Open Sans Regular
+  DividerFontSize 12
+  DividerFontColor #666666
+  DividerFontStyle Italic
+
+  groupBorderColor #93C8EC
+  groupBorderThickness 0.6
+  groupHeaderFontColor #888888
+  groupHeaderFontStyle Italic
+  groupHeaderFontSize 11
+  groupBackgroundColor #f9f9f9
+
+  LifeLineBorderColor #cccccc
+  LifeLineBorderThickness 0.7
+
+  ParticipantBackgroundColor White
+  ParticipantBorderColor white
+  ParticipantBorderThickness 0
+  ParticipantFontColor #0c74d3
+  ParticipantFontName Open Sans Regular
+  ParticipantFontSize 12
+
+  titleFontName Open Sans Light
+  titleFontColor #84bd00
+  titleFontSize 16
+}
+
+skinparam swimlane {
+  borderColor #dff7ff
+  titleFontName Open Sans Regular
+  titleFontColor #39acd2
+  titleFontSize 15
+}
