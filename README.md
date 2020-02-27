@@ -36,3 +36,7 @@ deactivate sys1
 
 @enduml
 ```
+
+And the result is:
+
+![](./usage-example.png)
