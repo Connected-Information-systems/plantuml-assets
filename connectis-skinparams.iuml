@@ -15,7 +15,7 @@ skinparam {
 
 skinparam activity {
   backgroundColor #fff
-  barColor #747375
+  barColor #CCC
   borderColor LightGrey
   borderThickness 1
   diamondBorderColor #84BD00
@@ -103,4 +103,9 @@ skinparam swimlane {
   titleFontName Open Sans Regular
   titleFontColor #39acd2
   titleFontSize 15
+}
+
+skinparam partition {
+  borderColor #CCC
+  borderThickness 2
 }
