@@ -106,6 +106,9 @@ skinparam swimlane {
 }
 
 skinparam partition {
-  borderColor #CCC
-  borderThickness 2
+  BorderColor #CCC
+  BorderThickness 1
+  FontColor #grey
+  FontSize 13
+  FontStyle normal
 }
